@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Gustavo
+-Profissão: Mkt digital
+-Cidade: Indaiatuba
+-O que faz nas horas vaga: jogo video game 
+-Feedback sobre o curso Qualidade de Software: Aprendendo tudo
+-Feedback sobre a plataforma de estudo da EBAC: bastante completa e intuitiva
+
+Obrigado!!!
+
+
